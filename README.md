@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning javaScript and Git itself.
 - 👯 I’m currently doing my studies.
-- ⚡ Fun fact: I love to play football. 
+- ⚡ Fun fact: I love to hit gym. 
 
 
 ### Languages: 
