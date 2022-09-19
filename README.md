@@ -3,8 +3,8 @@
 ## I'm a Tech enthusiast and i love technology!!
 
 - 🌱 I’m currently learning javaScript and Git itself.
-- 👯 I’m currently doing my studies.
-- ⚡ Fun fact: I love to hit gym and gaming. 
+- 👯 I’m currently doing my Btech.
+- ⚡ Fun fact: I love to hit gym and play football. 
 
 
 ### Languages: 
