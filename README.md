@@ -13,14 +13,14 @@
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"/>
-<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"/>
+<img align="left" alt="HTML" width="26px" src="https://ieeemy.org/section/wp-content/uploads/2020/09/960x0.jpg"/>
 
 <br/>
 <br/>
 
 ### Tools:  
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://ieeemy.org/section/wp-content/uploads/2020/09/960x0.jpg" />
+<img align="left" alt="Visual Studio Code" width="30px" src="" />
 
 
 
