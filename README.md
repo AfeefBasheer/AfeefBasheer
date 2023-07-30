@@ -1,6 +1,6 @@
-# Hello there, I'm Afeef 
+# Hey,Whats up...👋, I'm Afeef 
 ## I'm looking forward to become a Software Developer.
-## I'm a Tech enthusiast and i love technology!!
+## I'm a Tech enthusiast and i love Computer and technology!!
 
 - 🌱 I’m currently learning javaScript and Git itself.
 - 👯 I’m currently doing my Btech.
