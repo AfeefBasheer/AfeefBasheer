@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning javaScript and Git itself.
 - 👯 I’m currently doing my Btech.
-- ⚡ Fun fact: I love to hit gym,swim and play football. 
 
 
 ### Languages: 
