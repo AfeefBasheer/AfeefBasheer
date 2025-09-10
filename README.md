@@ -44,11 +44,25 @@ I’m passionate about **web development** and love exploring the endless possib
 
 ---
 
+## 🧩 Problem Solving  
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)  
+
+- ✅ **78 Easy**  
+- ✅ **40 Medium**  
+- ✅ **1 Hard**  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AfeefBasheer?theme=dark&font=Baloo%202&ext=contest" alt="LeetCode Stats"/>
+</p>
+
+---
+
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfeefBasheershow_icons=true&theme=radical" alt="Afeef's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Afeef's streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AfeefBasheer&show_icons=true&theme=radical" alt="Afeef's GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfeefBasheer&theme=radical" alt="Afeef's streak" height="160"/>
 </p>
 
 ---
