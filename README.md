@@ -7,7 +7,8 @@ I’m passionate about **web development** and love exploring the endless possib
 ---
 
 ## 🌱 What I'm Working On  
-- Backend Development with **Node.js**, **Express**, and **MongoDB**  
+- Backend Development with **Node.js**, **Express**, and **MongoDB**
+- Frontend Development with **React.js**  
 - Strengthening my fundamentals in **Data Structures & Algorithms**  
 - Exploring modern **Full-Stack Web Development** practices  
 
