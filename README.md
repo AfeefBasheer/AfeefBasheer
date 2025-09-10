@@ -47,7 +47,7 @@ I’m passionate about **web development** and love exploring the endless possib
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Afeef's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AfeefBasheershow_icons=true&theme=radical" alt="Afeef's GitHub stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Afeef's streak" height="160"/>
 </p>
 
