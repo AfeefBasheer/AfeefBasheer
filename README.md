@@ -1,25 +1,62 @@
-# Hey,Whats up...👋, I'm Afeef 
-## I'm looking forward to become a Web Developer.
-## I'm a Tech enthusiast and i love Computer and technology!!
+# Hey, I'm Afeef 👋  
 
-- 🌱 I’m currently learning Backend Development.
+🚀 **Aspiring Web Developer | Tech Enthusiast | Problem Solver**  
 
-### Languages: 
-  - HTML, CSS, javaScript,Nodejs Express,MongoDB Mangoose,C,Java,MySQL.
-<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"/>
-<img align="left" alt="Nodejs" width="26px" src="https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png"/>
-<img align="left" alt="Nodejs" width="26px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"/>
+I’m passionate about **web development** and love exploring the endless possibilities of **technology**. Currently, I’m diving deep into **Backend Development** and building real-world projects to sharpen my skills.  
 
-<br/>
-<br/>
+---
 
-### Tools:  
+## 🌱 What I'm Working On  
+- Backend Development with **Node.js**, **Express**, and **MongoDB**  
+- Strengthening my fundamentals in **Data Structures & Algorithms**  
+- Exploring modern **Full-Stack Web Development** practices  
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
+---
 
+## 💻 Tech Stack  
 
+### 🌐 Frontend  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
 
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)  
 
+### 🛢 Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+
+### 👨‍💻 Programming Languages  
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+
+### 🛠 Tools & Platforms  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Afeef's GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Afeef's streak" height="160"/>
+</p>
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 🐦 [Twitter](https://twitter.com/)  
+- 🌐 [Portfolio Website](https://) *(Coming soon!)*  
+
+✨ *“Code, Learn, Build, Repeat.”* ✨
