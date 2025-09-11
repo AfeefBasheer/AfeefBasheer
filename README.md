@@ -48,10 +48,6 @@ I’m passionate about **web development** and love exploring the endless possib
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)  
 
-- **78 Easy**  
-- **40 Medium**  
-- **1 Hard**  
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/AfeefBasheer?theme=dark&font=Baloo%202&ext=contest" alt="LeetCode Stats"/>
 </p>
