@@ -9,9 +9,9 @@ My Website - https://afeef-basheer-portfolio.vercel.app/
 
 ## 🌱 What I'm Working On  
 - Backend Development with **Node.js**, **Express**, and **MongoDB**
-- Frontend Development with **React.js**  
+- More about AI and Cloud
 - Strengthening my fundamentals in **Data Structures & Algorithms**  
-- Exploring modern **Full-Stack Web Development** practices  
+- Exploring modern **Development** practices  
 
 ---
 ## 💻 Tech Stack  
