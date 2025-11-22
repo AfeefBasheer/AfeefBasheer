@@ -1,10 +1,9 @@
 # Hey, I'm Afeef 👋  
 
-🚀 **Aspiring Software Developer | Tech Enthusiast | Problem Solver**  
+🚀 **Aspiring Software Engineer | Tech Enthusiast | Problem Solver**  
 
 I’m passionate about **Software Development** and love exploring the endless possibilities of **technology**. Currently, I’m diving deep into **Backend Development AI and Cloud** and building real-world projects to sharpen my skills.  
 
-My Website - https://afeef-basheer-portfolio.vercel.app/
 ---
 
 ## 🌱 What I'm Working On  
